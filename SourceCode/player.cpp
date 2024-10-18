@@ -1,4 +1,5 @@
 #include "all.h"
+//test
 
 int     player_state;
 float     power;
